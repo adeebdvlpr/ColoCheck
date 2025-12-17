@@ -36,7 +36,17 @@ export function AssessmentWizard() {
 
     {/* Next step, implementin the UI of the wizard, and setting the asnwers in the */}
     return(
-        ""
+        <div className="mx-auto max-w-4xl p-6 ">
+            <header className="mb-6">
+                <h1 className="text-2xl font-bold"> Risk Assessment</h1>
+                <p className="mt-2 text-small opacity-80"> Answer a few questions to get an idea of your risk level and suitable options</p>
+            </header>
+
+        <div className="border-rounded-xl">
+
+        </div>
+
+        </div>
     );
 
 }
