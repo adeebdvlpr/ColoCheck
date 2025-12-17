@@ -16,7 +16,7 @@ export default function HomePage() {
             Early awarness for Colorectal health, made clear
           </h1>
 
-          <p className = "mt-6 pb-2 max-w-prose text-base leading-7 text-slate-600">
+          <p className = "mt-6 pb-2 max-w-prose text-base leading-7 text-slate-400">
             Screening for Colorectal cancer can be intimidating - ColoCheck helps you understand your risk factors and next-steps with a short assessmenmt and easy to read results.
           </p>
 
