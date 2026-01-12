@@ -8,7 +8,7 @@ export default function About() {
         <div className="w-full grid grid-flow-row auto-rows-max ">
           <div className="grid items-center gap- lg:grid-cols-2 bg-[#DC776D] px-15" >
             <div className="">
-              <h1 className="text-4xl font-semibold tracking-tight sm:text-5xl text-white mb-4 pl-40">
+              <h1 className="text-4xl font-semibold tracking-tight sm:text-5xl text-white  mb-4 pl-40">
                 About ColoCheck
               </h1>
               

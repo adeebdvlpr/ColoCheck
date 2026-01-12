@@ -34,6 +34,8 @@ export default function HomePage() {
           </div>
         </div>
 
+        {/* i need to come back to these pages at some point to complete -- this is the most complete ATP*/ }
+
         {/*Ill put the large image here */}
         <div className="relative overflow-hidden rounded-2xl  ">
           <div className="relative aspect-[4/3] w-full" >
